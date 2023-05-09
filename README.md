@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </a>
 <br />
 <br />
-<a align="center" href="https://github.com/GZGef">
+<a style:"text-align:  center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-profile-trophy.vercel.app/?username=GZGef,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
 </a>
 <br />
