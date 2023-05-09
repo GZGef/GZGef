@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZGef&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=GZGef)](https://github.com/GZGef/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GZGef)](https://github.com/ryo-ma/github-profile-trophy)
