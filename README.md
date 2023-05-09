@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 <h2 align="center">🔥Languages and tools:</h2>
-<div>
+<div style="text-align:center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -38,16 +38,16 @@ Here are some ideas to get you started:
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=GZGef&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=080808"/>
 </div><br />
 <br />
-<a align="center" href="https://github.com/GZGef">
+<div style="text-align:center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZGef&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
-</a>
+</div>
 <br />
 <br />
-<a href="https://github.com/GZGef">
+<div style="text-align:center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-profile-trophy.vercel.app/?username=GZGef,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
-</a>
+</div>
 <br />
 <br />
-<a align="center" href="https://github.com/GZGef">
+<div style="text-align:center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=GZGef,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
-</a>
+</div>
