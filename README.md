@@ -34,16 +34,16 @@ Here are some ideas to get you started:
 </div>
 <br />
 
-<a align="center" href="https://github.com/GZGef">
+<div style:"text-align:  center" align="center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=GZGef&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=080808"/>
-</a><br />
+</div><br />
 <br />
 <a align="center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZGef&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
 </a>
 <br />
 <br />
-<a style:"text-align:  center" href="https://github.com/GZGef">
+<a href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-profile-trophy.vercel.app/?username=GZGef,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
 </a>
 <br />
