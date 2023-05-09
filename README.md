@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&width=435&lines=Computer+science+student;IT+news+writer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a></h3>
 
 <br />
-<h2>🔥Languages and tools:</h2>
+<h2 align="center">🔥Languages and tools:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -34,20 +34,20 @@ Here are some ideas to get you started:
 </div>
 <br />
 
-<a href="https://github.com/GZGef">
+<a align="center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=GZGef&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=080808"/>
 </a><br />
 <br />
-<a href="https://github.com/GZGef">
+<a align="center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZGef&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
 </a>
 <br />
 <br />
-<a href="https://github.com/GZGef">
+<a align="center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-profile-trophy.vercel.app/?username=GZGef,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
 </a>
 <br />
 <br />
-<a href="https://github.com/GZGef">
+<a align="center" href="https://github.com/GZGef">
   <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=GZGef,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
 </a>
