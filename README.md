@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 <a href="https://github.com/GZGef">
-  <img align="center" style="margin:0.5rem" src="https://github-profile-trophy.vercel.app/?username=GZGef" />
+  <img align="center" style="margin:0.5rem" src="https://github-profile-trophy.vercel.app/?username=GZGef,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
 </a>
 <br />
 <br />
 <a href="https://github.com/GZGef">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=GZGef" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=GZGef,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=080808" />
 </a>
