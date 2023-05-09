@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm GZGef</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&width=435&lines=Computer+science+student;IT+news+writer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&width=435&lines=Computer+science+student;IT+news+writer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a></h3>
 
 <br />
 <h2 align="center">🔥Languages and tools:</h2>
