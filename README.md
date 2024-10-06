@@ -1,12 +1,12 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Тимофей Крылов
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timofey Krylov
 ==========================================================================================================================================
 
-Веб-разработчик и разработчик нейронных сетей
+Web Developer and Developer of neural networks
 ---------------------------------------------
 
-В 2024 году я с отличием окончил Кузбасский государственный технический университет по специальности «прикладная информатика». Благодаря полученному образованию я могу сочетать навыки программирования и анализа данных для создания эффективных и оптимизированных решений.
+I graduated with distinction from Kuzbass State Technical University in 2024, earning a degree in Applied Informatics. My education equips me with the ability to combine programming and data analysis skills to create efficient and optimized solutions.
 
-* ⚡ «Я — тайный кулинарный мастер, способный готовить блюда из будущего... но это останется между нами».
+* ⚡ «I am a secret culinary master, able to cook dishes from the future... but this will stay between us».
 
 <a href="https://www.github.com/GZGef" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GZGef?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
