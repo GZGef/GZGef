@@ -5,7 +5,7 @@ My name is Timofey Krylov
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Web+Developer+and+Developer+of+neural+network" alt="Typing SVG" /></a>
 ---------------------------------------------
 
-I graduated with distinction from Kuzbass State Technical University in 2024, earning a degree in Applied Informatics. My education equips me with the ability to combine programming and data analysis skills to create efficient and optimized solutions.
+* 👨‍🎓 I graduated with distinction from Kuzbass State Technical University in 2024, earning a degree in Applied Informatics. My education equips me with the ability to combine programming and data analysis skills to create efficient and optimized solutions.
 
 * ⚡ «I am a secret culinary master, able to cook dishes from the future... but this will stay between us».
 
