@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timofey Krylov
 ==========================================================================================================================================
 
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+and+Developer+of+neural+networks%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a></h3>
 Web Developer and Developer of neural networks
 ---------------------------------------------
 
