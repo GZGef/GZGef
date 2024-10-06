@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=IT+programmer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a></h3>
 
-### 👨‍🎓 I graduated with distinction from Kuzbass State Technical University in 2024, earning a degree in Applied Informatics. My education equips me with the ability to combine programming and data analysis skills to create efficient and optimized solutions.
+<h3 align="center">👨‍🎓</h3>
+### I graduated with distinction from Kuzbass State Technical University in 2024, earning a degree in Applied Informatics. My education equips me with the ability to combine programming and data analysis skills to create efficient and optimized solutions.
 
 <br />
 <h2 align="center">🔥Languages and tools:</h2>
