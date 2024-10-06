@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+👨‍🎓 I graduated with distinction from Kuzbass State Technical University in 2024, earning a degree in Applied Informatics. My education equips me with the ability to combine programming and data analysis skills to create efficient and optimized solutions.
 
 <h1 align="center">⚡Hi there, I'm GZGef</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
