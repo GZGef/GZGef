@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timofey Krylov
 ==========================================================================================================================================
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Developer+of+neural+network" alt="Typing SVG" /></a></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Developer+of+neural+network" alt="Typing SVG" /></a>
 ---------------------------------------------
 
 I graduated with distinction from Kuzbass State Technical University in 2024, earning a degree in Applied Informatics. My education equips me with the ability to combine programming and data analysis skills to create efficient and optimized solutions.
