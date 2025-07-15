@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Timofey Krylov
 ==========================================================================================================================================
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Web+Developer+and+Developer+of+neural+network" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Web+Developer+and+Machine+Learning+Engineer" alt="Typing SVG" /></a>
 ---------------------------------------------
 
 # 💫 About Me:
