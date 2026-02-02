@@ -41,7 +41,7 @@ ____
 
 ____
 
-## 📌 Проект машинного обучения для обнаружения фейковых новостей с использованием TF-IDF и Passive Aggressive Classifier
+## 📌 Проект машинного обучения для обнаружения фейковых новостей с использованием TF-IDF и Passive Aggressive Classifier.
 [**Ссылка на проект**](https://github.com/GZGef/fake_news_detection)
 
 ___
@@ -56,7 +56,7 @@ ___
 
 _____
 
-## 📌 Система мониторинга генерирующего оборудования
+## 📌 Система мониторинга генерирующего оборудования.
 [**Ссылка на проект**](https://github.com/GZGef/PowerGenMonitor)
 
 _____
@@ -67,7 +67,7 @@ _____
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GZGef&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GZGef&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GZGef)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
