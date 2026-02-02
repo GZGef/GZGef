@@ -9,7 +9,7 @@ I graduated with distinction from Kuzbass State Technical University in 2024, ea
 
 I'm a passionate AI developer focused on creating practical, human-centered solutions with machine learning. My work spans generative AI, recommender systems, and agentic architectures — with a strong emphasis on engineering excellence, clean architecture, and production-ready implementations.
 
-This personal philosophy drives my approach: I value engineering discipline and clear processes, but I also seek space to influence architecture and solve non-trivial problems.<br>✉️  You can contact me at timofey.krylov.0206@gmail.com<br>🔥 Innovating at the intersection of tech and creativity, coding the future one commit at a time 🚀<br>⚡ «I am a secret culinary master, able to cook dishes from the future... but this will stay between us».
+This personal philosophy drives my approach: I value engineering discipline and clear processes, but I also seek space to influence architecture and solve non-trivial problems.<br><br>✉️  You can contact me at timofey.krylov.0206@gmail.com<br>🔥 Innovating at the intersection of tech and creativity, coding the future one commit at a time 🚀<br>⚡ «I am a secret culinary master, able to cook dishes from the future... but this will stay between us».
 
 
 # 🌐 Socials:
