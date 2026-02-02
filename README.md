@@ -33,14 +33,3 @@ This personal philosophy drives my approach: I value engineering discipline and 
 [![](https://visitcount.itsvg.in/api?id=GZGef&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/GZGef"><img src="https://github-readme-stats.vercel.app/api?username=GZGef&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="GZGef's GitHub stats" /></a>
-
-<a href="http://www.github.com/GZGef"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GZGef&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/GZGef" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZGef&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/GZGef/Cag-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GZGef&repo=Cag-system&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
