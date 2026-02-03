@@ -59,6 +59,7 @@ _____
 
 _____
 # 📊 GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GZGef)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=GZGef&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GZGef&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GZGef&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
