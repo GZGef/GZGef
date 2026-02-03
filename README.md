@@ -2,8 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer+%2F+AI+Developer)](https://git.io/typing-svg)
----------------------------------------------
 
+---------------------------------------------
 # 💫 About Me:
 I graduated with distinction from Kuzbass State Technical University in 2024, earning a degree in Applied Informatics. My education equips me with the ability to combine programming and data analysis skills to create efficient and optimized solutions.
 
@@ -18,49 +18,46 @@ ____
 </p>
 
 ____
-
 # PET projects:
-## 📌 Интеллектуальная RAG-система с кэшированием релевантных фрагментов и результатов с помощью Redis для работы с корпоративными документами.
-[**Ссылка на проект**](https://github.com/GZGef/CAG_system)
+## 📌 Intelligent RAG System with Redis Caching for Relevant Chunks and Results to Work with Corporate Documents  
+[**Project Link**](https://github.com/GZGef/CAG_system)
 
 ____
 
-## 📌 Мультиплатформенное приложение для общения с искусственным интеллектом, разработанное с использованием Flutter.
-[**Ссылка на проект**](https://github.com/GZGef/AIMobileChat)
+## 📌 Cross-Platform AI Chat Application Developed Using Flutter  
+[**Project Link**](https://github.com/GZGef/AIMobileChat)
 
 ____
 
-## 📌 Система для генерации и оптимизации SQL-запросов из текста с использованием LLM и анализа статистики БД.
-[**Ссылка на проект**](https://github.com/GZGef/SQLFormer)
+## 📌 System for Generating and Optimizing SQL Queries from Natural Language Using LLMs and Database Statistics Analysis  
+[**Project Link**](https://github.com/GZGef/SQLFormer)
 
 ____
 
-# PET projects:
-## 📌 Модель по распознаванию рукописных букв (A-Z) с использованием нейронных сетей с интерактивным веб-интерфейсом Streamlit.
-[**Ссылка на проект**](https://github.com/GZGef/handwritten_letters_recognition_model)
+## 📌 Handwritten Letter (A–Z) Recognition Model Using Neural Networks with an Interactive Streamlit Web Interface  
+[**Project Link**](https://github.com/GZGef/handwritten_letters_recognition_model)
 
 ____
 
-## 📌 Проект машинного обучения для обнаружения фейковых новостей с использованием TF-IDF и Passive Aggressive Classifier.
-[**Ссылка на проект**](https://github.com/GZGef/fake_news_detection)
+## 📌 Machine Learning Project for Fake News Detection Using TF-IDF and Passive Aggressive Classifier  
+[**Project Link**](https://github.com/GZGef/fake_news_detection)
 
 ___
 
-## 📌 Комплексный пайплайн машинного обучения для раннего выявления болезни Паркинсона с использованием биомедицинских измерений голоса.
-[**Ссылка на проект**](https://github.com/GZGef/detection_of_Parkinson-s_disease)
+## 📌 End-to-End Machine Learning Pipeline for Early Parkinson's Disease Detection Using Biomedical Voice Measurements  
+[**Project Link**](https://github.com/GZGef/detection_of_Parkinson-s_disease)
 
 ___
 
-## 📌 Симуляционная модель работы банка с несколькими кассами для анализа и оптимизации обслуживания клиентов.
-[**Ссылка на проект**](https://github.com/GZGef/Bank-Queue-Simulation-Model)
+## 📌 Bank Queue Simulation Model with Multiple Tellers for Customer Service Analysis and Optimization  
+[**Project Link**](https://github.com/GZGef/Bank-Queue-Simulation-Model)
 
 _____
 
-## 📌 Система мониторинга генерирующего оборудования.
-[**Ссылка на проект**](https://github.com/GZGef/PowerGenMonitor)
+## 📌 Power Generation Equipment Monitoring System  
+[**Project Link**](https://github.com/GZGef/PowerGenMonitor)
 
 _____
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GZGef&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GZGef&theme=radical&hide_border=false)<br/>
