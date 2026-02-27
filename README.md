@@ -12,25 +12,40 @@ I'm a passionate AI developer focused on creating practical, human-centered solu
 This personal philosophy drives my approach: I value engineering discipline and clear processes, but I also seek space to influence architecture and solve non-trivial problems.<br><br>✉️  You can contact me at timofey.krylov.0206@gmail.com<br>🔥 Innovating at the intersection of tech and creativity, coding the future one commit at a time 🚀<br>⚡ «I am a secret culinary master, able to cook dishes from the future... but this will stay between us».
 
 ____
-# 🌐 Socials:
-<p align="left">
+# 🛠️ Skills:
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 </p>
 
 ____
-# PET projects:
+# My PET projects:
 ## 📌 Intelligent RAG System with Redis Caching for Relevant Chunks and Results to Work with Corporate Documents  
 [**Project Link**](https://github.com/GZGef/CAG_system)
 
 ____
 
-## 📌 Cross-Platform AI Chat Application Developed Using Flutter  
-[**Project Link**](https://github.com/GZGef/AIMobileChat)
+## 📌 A machine learning system for predicting the risk of heart failure based on patients' medical records  
+[**Project Link**](https://github.com/GZGef/HeartCare-AI)
 
 ____
 
-## 📌 System for Generating and Optimizing SQL Queries from Natural Language Using LLMs and Database Statistics Analysis  
-[**Project Link**](https://github.com/GZGef/SQLFormer)
+## 📌 Comparative analysis of K-means and Deep Embedded Clustering (DEC) clustering methods on the Mall_Customers dataset using PyTorch
+[**Project Link**](https://github.com/GZGef/DeepClusteringComparison)
+
+____
+
+## 📌 Machine Learning Project for Fake News Detection Using TF-IDF and Passive Aggressive Classifier  
+[**Project Link**](https://github.com/GZGef/fake_news_detection)
+
+____
+
+## 📌 Implementation of the Transformer-Decoder architecture with an attention mechanism for the task of question-and-answer dialogue in Russian using PyTorch
+[**Project Link**](https://github.com/GZGef/Russian-Question-Answering-Transformer)
+
+____
+
+## 📌 End-to-End Machine Learning Pipeline for Early Parkinson's Disease Detection Using Biomedical Voice Measurements  
+[**Project Link**](https://github.com/GZGef/detection_of_Parkinson-s_disease)
 
 ____
 
@@ -39,23 +54,13 @@ ____
 
 ____
 
-## 📌 Machine Learning Project for Fake News Detection Using TF-IDF and Passive Aggressive Classifier  
-[**Project Link**](https://github.com/GZGef/fake_news_detection)
+## 📌 System for training the GPT model on Russian-language news and generating headlines, which includes a full cycle from data loading to web API and visualization  
+[**Project Link**](https://github.com/GZGef/HeaderNeurogenerator)
 
-___
+____
 
-## 📌 End-to-End Machine Learning Pipeline for Early Parkinson's Disease Detection Using Biomedical Voice Measurements  
-[**Project Link**](https://github.com/GZGef/detection_of_Parkinson-s_disease)
-
-___
-
-## 📌 Bank Queue Simulation Model with Multiple Tellers for Customer Service Analysis and Optimization  
-[**Project Link**](https://github.com/GZGef/Bank-Queue-Simulation-Model)
-
-_____
-
-## 📌 Power Generation Equipment Monitoring System  
-[**Project Link**](https://github.com/GZGef/PowerGenMonitor)
+## 📌 Cross-Platform AI Chat Application Developed Using Flutter  
+[**Project Link**](https://github.com/GZGef/AIMobileChat)
 
 _____
 # 📊 GitHub Stats:
