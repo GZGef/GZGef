@@ -24,7 +24,7 @@ ____
 
 ____
 
-## 📌 A machine learning system for predicting the risk of heart failure based on patients' medical records  
+## 📌 Machine learning system for predicting the risk of heart failure based on patients' medical records  
 [**Project Link**](https://github.com/GZGef/HeartCare-AI)
 
 ____
